@@ -1,0 +1,7 @@
+﻿product,avg_price,min_price,max_price,total_units_sold,avg_units_per_transaction,revenue,transactions
+Men's Street Footwear,43.78,7,95,"57,737",37.01,"1,999,192","1,560"
+Women's Apparel,51.13,14,110,"42,356",27.15,"1,720,630","1,560"
+Men's Athletic Footwear,43.26,11,95,"42,429",27.2,"1,468,116","1,560"
+Women's Street Footwear,39.74,7,95,"38,309",24.56,"1,224,756","1,560"
+Men's Apparel,49.87,16,95,"30,085",19.29,"1,192,682","1,560"
+Women's Athletic Footwear,40.65,7,90,"31,068",19.92,"1,023,899","1,560"
