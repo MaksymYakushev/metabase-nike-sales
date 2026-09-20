@@ -1,0 +1,49 @@
+﻿state,region,revenue,units_sold,transactions,avg_price,avg_transaction_value
+New York,Northeast,"642,317","16,959",360,49.11,"1,784.21"
+California,West,"601,768","16,372",432,49.55,"1,392.98"
+Florida,Southeast,"592,866","13,386",360,56.69,"1,646.85"
+Texas,South,"463,613","16,004",432,39.27,"1,073.18"
+South Carolina,Southeast,"292,868","7,290",144,47.72,"2,033.81"
+Washington,West,"263,318","4,686",144,67.65,"1,828.6"
+North Carolina,Southeast,"239,574","6,318",144,44.48,"1,663.71"
+Louisiana,South,"237,520","5,791",216,52.34,"1,099.63"
+Virginia,Southeast,"215,753","5,318",216,52.64,998.86
+Oregon,West,"213,509","5,077",216,53.74,988.47
+Colorado,West,"209,975","4,164",144,60.09,"1,458.16"
+Nevada,West,"208,586","5,201",216,54.33,965.68
+New Mexico,West,"198,664","5,283",216,50.61,919.74
+Idaho,West,"192,778","6,414",216,40.01,892.49
+Georgia,Southeast,"189,988","5,667",216,46.81,879.57
+Michigan,Midwest,"186,262","5,036",144,43.42,"1,293.49"
+Wyoming,West,"185,783","5,042",144,43.94,"1,290.16"
+Ohio,Midwest,"184,859","4,802",144,44.59,"1,283.74"
+Tennessee,South,"180,689","6,629",216,36.1,836.52
+Alabama,South,"176,347","6,360",216,36.69,816.42
+New Hampshire,Northeast,"164,133","4,107",216,53.64,759.88
+Arizona,West,"157,840","4,726",216,45.96,730.74
+Montana,Midwest,"157,124","4,294",144,45.02,"1,091.14"
+Mississippi,South,"155,927","5,714",216,35.48,721.88
+Vermont,Northeast,"143,540","3,903",216,49.31,664.54
+Arkansas,South,"126,407","4,868",216,33.34,585.22
+Delaware,Northeast,"123,000","3,052",144,47.41,854.17
+Connecticut,Northeast,"115,760","3,488",216,43.62,535.93
+Massachusetts,Northeast,"110,782","3,314",216,44.79,512.88
+West Virginia,Northeast,"106,906","3,015",144,41.07,742.4
+Oklahoma,South,"106,219","4,073",216,33.42,491.75
+Pennsylvania,Northeast,"103,590","2,788",216,49.94,479.58
+Kentucky,Southeast,"100,737","2,894",144,43.45,699.56
+Kansas,Midwest,"99,733","2,968",144,38.29,692.59
+New Jersey,Northeast,"99,353","2,673",144,43.98,689.95
+Illinois,Midwest,"97,988","2,561",144,47.74,680.47
+Utah,West,"96,972","4,867",216,26.83,448.94
+Missouri,Midwest,"96,846","3,659",144,31.49,672.54
+Maine,Northeast,"91,974","2,260",144,48.64,638.71
+Indiana,Midwest,"88,371","2,652",144,38.85,613.69
+South Dakota,Midwest,"84,970","2,318",144,43.83,590.07
+Rhode Island,Northeast,"84,483","2,773",216,40.35,391.13
+Maryland,Northeast,"77,591","2,103",144,44.07,538.83
+North Dakota,Midwest,"77,361","2,292",144,39.77,537.23
+Wisconsin,Midwest,"77,286","2,409",144,37.06,536.71
+Iowa,Midwest,"74,249","2,365",144,36.42,515.62
+Minnesota,Midwest,"73,795","2,112",144,41.37,512.47
+Nebraska,Midwest,"59,301","1,937",144,36.87,411.81
