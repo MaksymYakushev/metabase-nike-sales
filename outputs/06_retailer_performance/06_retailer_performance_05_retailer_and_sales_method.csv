@@ -1,0 +1,19 @@
+﻿retailer,sales_method,revenue,units_sold,transactions
+Amazon,Online,"285,755","9,270",477
+Amazon,In-store,"223,681","4,038",118
+Amazon,Outlet,"133,963","3,939",228
+Foot Locker,In-store,"765,296","16,174",449
+Foot Locker,Online,"726,123","25,433","1,349"
+Foot Locker,Outlet,"575,891","16,681",747
+Kohl's,Outlet,"415,591","11,166",310
+Kohl's,Online,"309,952","11,341",576
+Kohl's,In-store,"295,683","6,369",144
+Sports Direct,Outlet,"647,902","22,456",731
+Sports Direct,Online,"591,422","21,629",982
+Sports Direct,In-store,"550,521","11,208",293
+Walmart,Outlet,"364,585","10,748",279
+Walmart,In-store,"164,116","2,075",37
+Walmart,Online,"149,001","6,626",266
+West Gear,In-store,"1,567,353","29,537",699
+West Gear,Outlet,"457,079","14,716",580
+West Gear,Online,"405,361","18,578","1,095"
