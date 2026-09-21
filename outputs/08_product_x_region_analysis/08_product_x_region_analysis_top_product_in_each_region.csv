@@ -1,0 +1,26 @@
+﻿region,product,revenue,rank
+Midwest,Men's Street Footwear,"383,248",1
+Midwest,Women's Apparel,"282,086",2
+Midwest,Men's Athletic Footwear,"213,076",3
+Midwest,Men's Apparel,"181,280",4
+Midwest,Women's Street Footwear,"162,476",5
+Northeast,Men's Street Footwear,"510,281",1
+Northeast,Women's Apparel,"375,453",2
+Northeast,Men's Athletic Footwear,"288,773",3
+Northeast,Men's Apparel,"257,478",4
+Northeast,Women's Street Footwear,"233,448",5
+South,Women's Apparel,"296,081",1
+South,Men's Street Footwear,"284,459",2
+South,Men's Athletic Footwear,"257,118",3
+South,Women's Street Footwear,"227,794",4
+South,Men's Apparel,"197,045",5
+Southeast,Men's Street Footwear,"360,206",1
+Southeast,Women's Apparel,"314,924",2
+Southeast,Men's Athletic Footwear,"277,784",3
+Southeast,Men's Apparel,"244,623",4
+Southeast,Women's Street Footwear,"231,208",5
+West,Men's Street Footwear,"460,998",1
+West,Women's Apparel,"452,086",2
+West,Men's Athletic Footwear,"431,365",3
+West,Women's Street Footwear,"369,830",4
+West,Men's Apparel,"312,256",5
