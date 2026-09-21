@@ -1,0 +1,19 @@
+﻿retailer,sales_method,revenue,method_share
+Amazon,Online,"285,755",44.41
+Amazon,In-store,"223,681",34.77
+Amazon,Outlet,"133,963",20.82
+Foot Locker,In-store,"765,296",37.02
+Foot Locker,Online,"726,123",35.12
+Foot Locker,Outlet,"575,891",27.86
+Kohl's,Outlet,"415,591",40.7
+Kohl's,Online,"309,952",30.35
+Kohl's,In-store,"295,683",28.95
+Sports Direct,Outlet,"647,902",36.2
+Sports Direct,Online,"591,422",33.04
+Sports Direct,In-store,"550,521",30.76
+Walmart,Outlet,"364,585",53.8
+Walmart,In-store,"164,116",24.22
+Walmart,Online,"149,001",21.99
+West Gear,In-store,"1,567,353",64.51
+West Gear,Outlet,"457,079",18.81
+West Gear,Online,"405,361",16.68
