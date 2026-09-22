@@ -1,0 +1,91 @@
+﻿product,region,sales_method,revenue,units_sold,transactions,avg_price,avg_transaction_value
+Men's Street Footwear,Northeast,In-store,"337,619","6,578",115,51.04,"2,935.82"
+Women's Apparel,Northeast,In-store,"234,188","4,181",114,54.74,"2,054.28"
+Men's Street Footwear,West,In-store,"220,664","4,224",66,50.91,"3,343.39"
+Women's Apparel,West,In-store,"199,805","3,171",66,62.12,"3,027.35"
+Men's Street Footwear,Southeast,Online,"193,476","5,627",132,48.58,"1,465.73"
+Men's Athletic Footwear,West,In-store,"192,870","3,461",66,53.56,"2,922.27"
+Men's Athletic Footwear,Northeast,In-store,"175,694","3,677",113,46.68,"1,554.81"
+Men's Street Footwear,Midwest,In-store,"174,391","4,141",74,41.76,"2,356.64"
+Women's Apparel,South,Outlet,"168,127","5,144",144,39.49,"1,167.55"
+Women's Apparel,Southeast,Online,"165,162","4,202",132,56.46,"1,251.23"
+Women's Street Footwear,West,In-store,"162,298","3,099",67,50.97,"2,422.36"
+Men's Street Footwear,Northeast,Outlet,"160,073","4,372",125,45.64,"1,280.58"
+Men's Apparel,Northeast,In-store,"155,166","2,773",114,55,"1,361.11"
+Men's Athletic Footwear,South,Outlet,"151,920","5,291",144,33.67,"1,055"
+Men's Street Footwear,Southeast,In-store,"148,416","2,559",32,56.72,"4,638"
+Women's Street Footwear,South,Outlet,"143,000","4,896",144,32.51,993.06
+Men's Apparel,West,In-store,"142,759","2,360",66,58.94,"2,163.02"
+Women's Street Footwear,Northeast,In-store,"139,814","3,335",113,41.15,"1,237.29"
+Men's Street Footwear,South,Online,"138,658","4,809",141,39.01,983.39
+Men's Street Footwear,South,Outlet,"138,338","5,720",144,31.36,960.68
+Men's Athletic Footwear,Southeast,Online,"137,541","4,185",132,47.74,"1,041.98"
+Women's Apparel,West,Outlet,"136,795","3,652",126,48.55,"1,085.67"
+Women's Apparel,Southeast,In-store,"135,865","1,991",32,67.97,"4,245.78"
+Women's Athletic Footwear,West,In-store,"135,481","2,618",67,50,"2,022.1"
+Women's Apparel,Northeast,Outlet,"131,961","3,175",126,49.17,"1,047.31"
+Men's Street Footwear,West,Outlet,"130,419","4,488",126,38.29,"1,035.07"
+Men's Athletic Footwear,Southeast,In-store,"129,766","2,178",33,58.33,"3,932.3"
+Men's Apparel,Southeast,Online,"128,671","3,325",132,55.09,974.78
+Men's Athletic Footwear,West,Outlet,"127,461","3,934",126,42.06,"1,011.6"
+Women's Apparel,Midwest,In-store,"127,297","2,664",75,46.8,"1,697.29"
+Women's Apparel,South,Online,"122,591","3,653",141,47.54,869.44
+Women's Athletic Footwear,Northeast,In-store,"117,129","2,628",114,42.81,"1,027.45"
+Women's Apparel,West,Online,"115,486","3,674",168,58.14,687.42
+Women's Street Footwear,Southeast,Online,"112,168","3,903",132,43.29,849.76
+Men's Street Footwear,Midwest,Online,"111,599","4,625",194,41.34,575.25
+Men's Athletic Footwear,West,Online,"111,034","4,091",168,50.38,660.92
+Men's Street Footwear,West,Online,"109,915","4,615",168,45.9,654.26
+Women's Street Footwear,West,Outlet,"109,855","3,529",125,40.44,878.84
+Men's Apparel,Southeast,In-store,"109,242","1,651",32,65.78,"3,413.81"
+Women's Street Footwear,Southeast,In-store,"108,241","1,967",33,54.55,"3,280.03"
+Women's Athletic Footwear,South,Outlet,"108,091","3,679",144,34.4,750.63
+Men's Athletic Footwear,Northeast,Outlet,"105,852","2,976",127,42.59,833.48
+Men's Apparel,South,Outlet,"104,871","3,421",144,38.55,728.27
+Women's Athletic Footwear,Southeast,Online,"102,029","3,328",132,44.76,772.95
+Men's Athletic Footwear,South,Online,"99,347","3,647",141,39.22,704.59
+Women's Street Footwear,West,Online,"97,677","3,649",168,48.57,581.41
+Men's Apparel,West,Outlet,"97,394","2,767",126,45.13,772.97
+Men's Street Footwear,Midwest,Outlet,"97,258","2,262",44,43.98,"2,210.41"
+Men's Apparel,Northeast,Outlet,"95,855","2,303",126,49.06,760.75
+Women's Athletic Footwear,West,Outlet,"92,154","2,996",125,39.07,737.23
+Women's Athletic Footwear,Southeast,In-store,"92,104","1,638",32,55.47,"2,878.25"
+Men's Athletic Footwear,Midwest,In-store,"89,342","2,350",74,36.76,"1,207.32"
+Men's Apparel,South,Online,"88,711","2,609",140,47,633.65
+Women's Street Footwear,Northeast,Outlet,"87,793","2,712",127,38.65,691.28
+Women's Apparel,Midwest,Online,"83,372","2,988",194,46.63,429.75
+Men's Apparel,Midwest,In-store,"82,657","1,756",75,46.87,"1,102.09"
+Women's Street Footwear,South,Online,"78,331","3,246",141,36.28,555.54
+Women's Athletic Footwear,Northeast,Outlet,"75,980","2,251",126,39.6,603.02
+Women's Athletic Footwear,West,Online,"75,023","2,939",168,47.85,446.57
+Men's Apparel,West,Online,"72,103","2,565",168,54.21,429.18
+Women's Apparel,Midwest,Outlet,"71,417","1,339",43,52.33,"1,660.86"
+Women's Athletic Footwear,South,Online,"70,796","2,636",140,38.66,505.69
+Women's Street Footwear,Midwest,In-store,"66,713","2,096",74,31.08,901.53
+Men's Athletic Footwear,Midwest,Outlet,"63,420","1,480",44,42.73,"1,441.36"
+Men's Athletic Footwear,Midwest,Online,"60,314","2,720",194,37.62,310.9
+Men's Apparel,Midwest,Online,"58,216","2,009",194,46.64,300.08
+Women's Athletic Footwear,Midwest,In-store,"55,188","1,617",73,32.6,756
+Women's Street Footwear,Midwest,Outlet,"48,845","1,219",44,38.75,"1,110.11"
+Women's Street Footwear,Midwest,Online,"46,918","2,415",194,32.56,241.85
+Women's Athletic Footwear,Midwest,Online,"42,171","1,943",195,34.3,216.26
+Men's Apparel,Midwest,Outlet,"40,407",807,43,49.88,939.7
+Women's Athletic Footwear,Midwest,Outlet,"38,620",974,44,38.86,877.73
+Men's Street Footwear,Southeast,Outlet,"18,314","1,029",40,42.03,457.85
+Women's Apparel,Southeast,Outlet,"13,897",720,40,51.35,347.43
+Men's Street Footwear,Northeast,Online,"12,589","2,527",156,49.49,80.7
+Women's Street Footwear,Southeast,Outlet,"10,799",715,39,43.18,276.9
+Men's Athletic Footwear,Southeast,Outlet,"10,477",777,39,44.21,268.64
+Women's Apparel,Northeast,Online,"9,304","1,694",156,53.28,59.64
+Women's Athletic Footwear,Southeast,Outlet,"8,908",586,40,42.53,222.7
+Men's Street Footwear,South,In-store,"7,463",161,3,46.67,"2,487.67"
+Men's Athletic Footwear,Northeast,Online,"7,227","1,551",156,45.6,46.33
+Men's Apparel,Southeast,Outlet,"6,710",492,40,48.08,167.75
+Women's Street Footwear,South,In-store,"6,463",118,3,55,"2,154.33"
+Men's Apparel,Northeast,Online,"6,457","1,173",156,53.38,41.39
+Men's Athletic Footwear,South,In-store,"5,851",111,3,53.33,"1,950.33"
+Women's Street Footwear,Northeast,Online,"5,841","1,410",156,40.59,37.44
+Women's Apparel,South,In-store,"5,363",108,3,50,"1,787.67"
+Women's Athletic Footwear,South,In-store,"5,338",116,4,46.25,"1,334.5"
+Women's Athletic Footwear,Northeast,Online,"4,887","1,119",156,42.06,31.33
+Men's Apparel,South,In-store,"3,463",74,4,48.75,865.75
