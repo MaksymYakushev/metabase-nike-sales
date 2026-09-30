@@ -7,6 +7,8 @@ The project focuses on data exploration, SQL analysis, KPI development, and inte
 
 This project analyzes Nike sales data covering 9,360 transactions across different U.S. regions from **January 1, 2020**, to **December 31, 2021**.
 
+<img src="https://github.com/MaksymYakushev/metabase-nike-sales/blob/main/images/project-preview/preview.gif" width="900" height="650">
+
 The goal is to transform raw sales data into actionable business insights by analyzing:    
 - Sales performance
 - Revenue and profit
